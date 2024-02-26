@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "audio",
+			"path": "../../../../../Downloads/audio"
+		},
+		{
+			"name": "audio_wav",
+			"path": "../../../../../Desktop/audio_wav"
+		},
+		{
+			"name": "APCS Final Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
